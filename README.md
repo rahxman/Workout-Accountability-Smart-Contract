@@ -90,3 +90,6 @@ This roadmap represents our commitment to building not just a fitness accountabi
 
 
 Contract Details: 0x072370c4c9Eae4e4D489097B6583f5D96737AFff
+
+<img width="1393" height="616" alt="image" src="https://github.com/user-attachments/assets/d3d90ca4-64e6-45e9-8fa3-4468759a12ad" />
+
